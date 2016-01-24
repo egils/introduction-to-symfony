@@ -1,3 +1,5 @@
 ## Introduction to Symfony
 
-A paragraph with some text and a [link](http://hakim.se).
+_Tadas Gliaubicas, Egidijus Lukauskas_ 
+
+NFQ, Vilnius, 2016 sausio 27 d.
