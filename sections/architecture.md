@@ -21,7 +21,7 @@ Let's have a look!
 
 ### Bundles
 
-@todo
+Most of your business logic (mostly) 
 
 --
 
